@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAndLearn</string>
+    <string name="cal">cal</string>
+    <string name="I_Agree">I Agree</string>
+    <string name="zero">0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="result">=0</string>
+</resources>
